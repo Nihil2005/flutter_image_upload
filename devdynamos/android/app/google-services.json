@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744003845143",
+    "project_id": "devdev-5dd74",
+    "storage_bucket": "devdev-5dd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744003845143:android:d26db869667d41cbe53052",
+        "android_client_info": {
+          "package_name": "com.example.devdynamos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChorvZJu-dk9awiJGtZ7m1JvMhcSabVWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
